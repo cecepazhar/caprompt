@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cecep-azhar/caprompt.git"
+    "url": "git+https://github.com/cecepazhar/caprompt.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cecep-azhar/caprompt/issues"
+    "url": "https://github.com/cecepazhar/caprompt/issues"
   },
-  "homepage": "https://github.com/cecep-azhar/caprompt#readme",
+  "homepage": "https://github.com/cecepazhar/caprompt#readme",
   "devDependencies": {
     "@tauri-apps/api": "^3.0.0-alpha.0",
     "@tauri-apps/cli": "^3.0.0-alpha.1"
